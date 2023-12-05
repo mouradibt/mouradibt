@@ -31,6 +31,8 @@
 - **Languages**:
     
      <img src="https://user-images.githubusercontent.com/64439609/212555599-9b7ae14f-093a-41bf-8cb8-3cdefd418636.png" width="40" height="40" />
+
+     <img src="images/phpIcon.png" width="40" height="40">
   
 - **Front-End Development**:
 
@@ -60,7 +62,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Mahdiiye&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Mouradi&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mahdiiye&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiiye&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 	
